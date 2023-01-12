@@ -1,23 +1,25 @@
 ##  Hi 👋, I'm Hudson Dunice!
 
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=for-the-badge&logoColor=fff&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=fff&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-8893BE?style=for-the-badge&logoColor=fff&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=fff&logo=python)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logoColor=fff&logo=Ruby)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=for-the-badge&logoColor=000&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&&logo=React)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=for-the-badge&logoColor=fff&logo=vue.js)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logoColor=fff&logo=mysql)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-316192?style=for-the-badge&logoColor=fff&logo=Postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logoColor=fff&logo=mongodb)&nbsp;
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logoColor=fff&logo=amazondynamodb)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-DD0031?style=for-the-badge&logoColor=fff&logo=redis)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-00BFB2?style=for-the-badge&logoColor=fff&logo=elasticsearch)&nbsp;
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Ruby](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=fff&logo=docker)&nbsp;
+![OpenAPI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAPI&color=6BA539&logo=OpenAPI+Initiative&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=fff&logo=docker)
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
-![AWS](https://img.shields.io/badge/-AWS-EC902E?style=for-the-badge&logoColor=fff&logo=amazonaws)&nbsp;
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ---
 [![Hudson Dunice github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dunice&count_private=true&show_icons=true&theme=dracula)](https://github.com/dunice/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dunice&layout=compact&theme=dracula&langs_count=10&hide=html)](https://github.com/dunice/github-readme-stats)
