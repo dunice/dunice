@@ -21,6 +21,6 @@
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
 ---
-[![Hudson Dunice github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dunice&count_private=true&show_icons=true&theme=dracula)](https://github.com/dunice/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dunice&layout=compact&theme=dracula&langs_count=10&hide=html)](https://github.com/dunice/github-readme-stats)
+[![Hudson Dunice github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dunice&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dunice&layout=compact&theme=dracula&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 ---
