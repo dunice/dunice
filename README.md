@@ -14,6 +14,7 @@
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logoColor=fff&logo=amazondynamodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-DD0031?style=for-the-badge&logoColor=fff&logo=redis)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-00BFB2?style=for-the-badge&logoColor=fff&logo=elasticsearch)&nbsp;
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=fff&logo=docker)&nbsp;
 ![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
 ![AWS](https://img.shields.io/badge/-AWS-EC902E?style=for-the-badge&logoColor=fff&logo=amazonaws)&nbsp;
